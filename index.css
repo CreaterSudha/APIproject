@@ -1,0 +1,29 @@
+
+main
+{
+    background-color: antiquewhite;
+}
+.heading
+{
+   padding: 20px 30px;
+
+}
+.row
+{
+   margin: 10px;
+}
+.card
+{
+    padding: 10px;
+}
+li a
+{
+   cursor: pointer;
+      
+}
+li a:hover
+{
+   
+    border-bottom:2px solid orange;
+}
+    
